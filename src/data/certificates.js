@@ -3,7 +3,7 @@ import React from "react";
 function certificates_1() {
 	return {
 		date: "June 2023",
-		title: "Machine Learning Specialization Certificate",
+		title: "Machine Learning Specialization",
 		description:
 			"A three-part specialization on best practices and ethics for supervised, unsupervised, and reinforcement learning. Mastering the key concepts and practical usage of machine learning in real-world problems.",
 		keywords: [
