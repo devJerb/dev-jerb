@@ -19,7 +19,7 @@ const Footer = () => {
 							<Link to="/projects">Projects</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/certificates">Certificates</Link>
+							<Link to="/certificates">Certs</Link>
 						</li>
 						<li className="footer-nav-link-item">
 							<Link to="/contact">Contact</Link>
@@ -29,7 +29,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2023 All Rights Reserved.
+						© { () => document.write(new Date().getFullYear()) } 2023 All Rights Reserved.
 					</div>
 				</div>
 			</div>

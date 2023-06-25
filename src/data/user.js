@@ -16,13 +16,13 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Web Developer and Software Engineer / AI Enthusiast",
+		title: "Web Developer and Software Engineer | AI Enthusiast",
 		description:
 			"Hi there 👋, I'm Jerome Gutierrez, a 4th year undergraduate studying BS - CSE at Holy Angel University. I specialize in building React websites and developing back-end Python applications, and I'm currently studying Data Science and AI to enhance my skills further. Aside from my passion for technology and programming, I also love music and enjoy playing musical instruments in my free time.",
 	},
 
 	about: {
-		title: "I'm Jerome Gutierrez from the Philippines",
+		title: "Jerome Gutierrez - A Developer in the Philippines",
 		description1:
 			"I’m a 4th year undergraduate at Holy Angel University majoring in Computer Science. Focused in the field of Web Development and Data Science. I’m a results-driven software developer in automation and optimization with a strict work ethic and a passion for continuous learning. I thrive in fast-paced environments and bring a keen eye for detail.",
 		description2:
@@ -32,9 +32,9 @@ const INFO = {
 	},
 
 	certificates: {
-		title: "Adding Depth to The Well of Knowledge",
+		title: "Certificates - Machine Learning Fundamentals and Probability Statistics for Data Science and Machine Learning",
 		description:
-			"A collection of my personal certificates collected throughout my years as a developer.",
+			"Below, you'll find a breakdown of my certifications in supervised learning, unsupervised learning, reinforcement learning, fundamentals of deep learning, and probability statistics for machine learning and data science. These certificates highlight my commitment to continuous learning and staying at the forefront of the rapidly evolving field of artificial intelligence.",
 	},
 
 	projects: [
@@ -57,21 +57,36 @@ const INFO = {
 		},
 
 		{
-			title: "Deep Learning Notebooks",
+			title: "Deep Learning Jupyter Notebooks",
 			description:
 				"Weekly deep learning practice.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "https://github.com/devJerb/dl-weekly",
 		},
-
 		{
-			title: "JWT MERN Auth Dashboard",
+			title: "Shack Commerce",
 			description:
-				"A JWT web app using a MERN stack.",
+				"A React website that uses Commerce JS.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
+			link: "https://github.com/devJerb/react-commerce",
+		},
+		{
+			title: "JWT MERN Auth",
+			description:
+				"A JWT web app using a MERN stack.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
+			linkText: "View Project",
 			link: "https://github.com/devJerb/jwt-mern-auth",
+		},
+		{
+			title: "Playlist SpotiPy API",
+			description:
+				"Web scraping on Billboard Hot 100 using bs4 and spotipy.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			linkText: "View Project",
+			link: "https://github.com/devJerb/playlist-spotipy-api",
 		},
 		{
 			title: "Aeronautics Academe",
@@ -82,12 +97,12 @@ const INFO = {
 			link: "https://github.com/devJerb/aero-academe",
 		},
 		{
-			title: "Playlist SpotiPy API",
+			title: "Housing Data Entry",
 			description:
-				"Web scraping on Billboard Hot 100 using bs4 and spotipy.",
+				"Lists down housing and rental details using Selenium and BS4",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com/devJerb/playlist-spotipy-api",
+			link: "https://github.com/devJerb/housing-data-entry",
 		},
 	],
 };

@@ -22,7 +22,7 @@ const Certificate = (props) => {
 					</div>
 					<div className="homepage-certificates-link">
 						<Link to={link}>
-							Read certificates{" "}
+							View certificate{" "}
 							<FontAwesomeIcon
 								style={{ fontSize: "10px" }}
 								icon={faChevronRight}

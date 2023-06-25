@@ -20,7 +20,7 @@ const Certificate = (props) => {
 						<div className="certificates-title">{title}</div>
 						<div className="certificates-description">{description}</div>
 						<div className="certificates-link">
-							Read certificates{" "}
+							View certificate{" "}
 							<FontAwesomeIcon
 								style={{ fontSize: "10px" }}
 								icon={faChevronRight}

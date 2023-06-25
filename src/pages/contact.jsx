@@ -40,14 +40,13 @@ const Contact = () => {
 
 					<div className="contact-container">
 						<div className="title contact-title">
-							Stay In Touch With Me
+						Get Connected with me - Let's Collaborate!
 						</div>
 
 						<div className="subtitle contact-subtitle">
-							Thanks for finding the interest to connect with me to have collaborations,
-							you can find me from these social media apps. I'm constantly active on GitHub since I try to optimize
-							and keep my projects up-to-date with the technologies whilst reading documentations and repositories from different
-							developers such as me!
+							I'm thrilled that you've landed here. If you have any questions, ideas, or exciting collaboration opportunities,
+							I'm eager to hear from you. Let's join forces and create something amazing together.
+							Below, you'll find various ways to connect with me and stay updated on my latest projects and developments.
 						</div>
 					</div>
 

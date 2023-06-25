@@ -82,7 +82,7 @@ const Socials = () => {
 							<FontAwesomeIcon icon={faEnvelope} />
 						</div>
 
-						<div className="social-text">{INFO.main.email}</div>
+						<div className="social-text">gutierrez.jerome@dev</div>
 					</a>
 				</div>
 			</div>
