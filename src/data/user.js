@@ -22,7 +22,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "Jerome Gutierrez - A Developer in the Philippines",
+		title: "Jerome Gutierrez - Developer in the Philippines",
 		description1:
 			"I’m a 4th year undergraduate at Holy Angel University majoring in Computer Science. Focused in the field of Web Development and Data Science. I’m a results-driven software developer in automation and optimization with a strict work ethic and a passion for continuous learning. I thrive in fast-paced environments and bring a keen eye for detail.",
 		description2:
