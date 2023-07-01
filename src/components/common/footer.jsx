@@ -29,7 +29,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© { () => document.write(new Date().getFullYear()) } 2023 All Rights Reserved.
+						© { () => document.write(new Date().getFullYear()) } 2023. All Rights Reserved.
 					</div>
 				</div>
 			</div>

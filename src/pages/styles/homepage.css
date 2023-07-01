@@ -24,11 +24,11 @@
 }
 
 .homepage-title {
-	width: 85% !important;
+	width: 85%;
 }
 
 .homepage-subtitle {
-	width: 85% !important;
+	width: 85%;
 }
 
 .homepage-first-area-right-side {
@@ -80,6 +80,7 @@
 .homepage-certificates {
 	flex-basis: 900px;
 	padding-top: 30px;
+	color: var(--primary-color);
 }
 
 .homepage-article {
@@ -105,13 +106,13 @@
 	}
 
 	.homepage-title {
-		width: 100% !important;
+		width: 100%;
 		margin-top: 20px;
 		order: 2;
 	}
 
 	.homepage-subtitle {
-		width: 100% !important;
+		width: 100%;
 		margin-top: 10px;
 		order: 3;
 	}
